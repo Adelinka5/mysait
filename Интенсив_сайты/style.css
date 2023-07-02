@@ -1,0 +1,11 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94, 91, 91);
+    background-color: rgba(249, 139, 253, 0.658);
+}
+
+li{
+    text-indent: 60px;
+    list-style-type: georgian;
+    padding-inline-start: 1ch;
+}
